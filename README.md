@@ -3,7 +3,7 @@ I'm Priyank Viradiya, an ICT student at Marwadi University 🎓 with a passion f
 
 **About Me** <br>
 🌱 Currently learning and exploring various aspects of web development. <br>
-💬 Ask me about anything related to web development or ICT! <br>br
+💬 Ask me about anything related to web development or ICT! <br>
 
 **Skills:** <br>
 HTML <br>
