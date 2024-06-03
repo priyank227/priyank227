@@ -20,7 +20,7 @@ I'm Priyank Viradiya, an ICT student at Marwadi University 🎓 with a passion f
 
 <h2>Connect with Me</h2> 
 <h3>LinkedIn:</h3> https://www.linkedin.com/in/priyank-viradiya/ <br>
-<h3>Email:</h3>priyankviradiya@gmail.com<br><br>
+<h3>Email:</h3>priyankviradiya227@gmail.com<br><br>
 
 Let's Code Together! <br>
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything! 🚀 <br>
