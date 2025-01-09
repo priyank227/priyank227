@@ -1,11 +1,12 @@
 Hi there! 👋
-I'm Priyank Viradiya, an ICT student at Marwadi University 🎓 with a passion for web development 💻.
+I'm Priyank Viradiya, an ICT student at Marwadi University 🎓 with a passion for Data Science 📊 And web development 💻.
 
 <h2>About Me</h2> <br>
-🌱 Currently learning and exploring various aspects of web development. <br>
-💬 Ask me about anything related to web development or ICT! <br>
+🌱 Currently learning and exploring various aspects of Data Science and Web Development. <br>
 
 <h2>skills</h2><br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
